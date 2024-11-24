@@ -1,4 +1,4 @@
-package com.example.blissapplication
+package com.example.blissApplication
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.blissapplication.ui.theme.BlissApplicationTheme
+import com.example.blissApplication.ui.theme.BlissApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

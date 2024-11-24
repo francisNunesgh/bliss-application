@@ -1,4 +1,4 @@
-package com.example.blissapplication
+package com.example.blissApplication
 
 import org.junit.Test
 
